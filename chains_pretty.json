@@ -1360,7 +1360,7 @@
   "networkId": 100,
   "slip44": 269
 }, {
-  "name": "KuCoin Community Chain Mainnet",
+  "name": "KCC Mainnet",
   "chain": "KCC",
   "network": "mainnet",
   "rpc": ["https://rpc-mainnet.kcc.network", "wss://rpc-ws-mainnet.kcc.network"],
@@ -1373,17 +1373,17 @@
   "infoURL": "https://kcc.io",
   "shortName": "kcs",
   "chainId": 321,
-  "networkId": 321,
+  "networkId": 1,
   "explorers": [{
     "name": "KCC Explorer",
     "url": "https://explorer.kcc.io/en",
     "standard": "EIP3091"
   }]
 }, {
-  "name": "KuCoin Community Chain Testnet",
+  "name": "KCC Testnet",
   "chain": "KCC",
   "network": "testnet",
-  "rpc": ["https://rpc-testnet.kcc.network"],
+  "rpc": ["https://rpc-testnet.kcc.network", "wss://rpc-ws-testnet.kcc.network"],
   "faucets": ["https://faucet-testnet.kcc.network"],
   "nativeCurrency": {
     "name": "KuCoin Testnet Token",
