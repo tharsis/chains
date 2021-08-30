@@ -1949,6 +1949,19 @@
   "faucets": [],
   "infoURL": "https://teampeggle.com"
 }, {
+  "name": "Arbitrum One",
+  "chainId": 42161,
+  "shortName": "arb1",
+  "networkId": 42161,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "AETH",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.infura.io/v3/${INFURA_API_KEY}", "https://arb-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}", "https://arb1.arbitrum.io/rpc", "wss://arb1.arbitrum.io/ws"],
+  "faucets": [],
+  "infoURL": "https://arbitrum.io"
+}, {
   "name": "Celo Mainnet",
   "chainId": 42220,
   "shortName": "CELO",
