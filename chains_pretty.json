@@ -129,7 +129,7 @@
   "chainId": 7,
   "networkId": 7
 }, {
-  "name": "Ubiq Network Mainnet",
+  "name": "Ubiq",
   "chain": "UBQ",
   "network": "mainnet",
   "rpc": ["https://rpc.octano.dev", "https://pyrus2.ubiqscan.io"],
