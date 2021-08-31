@@ -1013,6 +1013,19 @@
   "faucets": ["https://faucet.latam-blockchain.com"],
   "infoURL": "https://latam-blockchain.com"
 }, {
+  "name": "Arbitrum on xDai",
+  "chainId": 200,
+  "shortName": "aox",
+  "networkId": 200,
+  "nativeCurrency": {
+    "name": "xDAI",
+    "symbol": "xDAI",
+    "decimals": 18
+  },
+  "rpc": ["https://arbitrum.xdaichain.com/"],
+  "faucets": [],
+  "infoURL": "https://xdaichain.com"
+}, {
   "name": "Freight Trust Network",
   "chainId": 211,
   "shortName": "EDI",
