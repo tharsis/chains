@@ -1061,7 +1061,7 @@
     "symbol": "FTM",
     "decimals": 18
   },
-  "rpc": ["https://rpcapi.fantom.network"],
+  "rpc": ["https://rpc.ftm.tools"],
   "faucets": [],
   "infoURL": "https://fantom.foundation"
 }, {

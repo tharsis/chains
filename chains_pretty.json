@@ -1334,7 +1334,7 @@
   "name": "Fantom Opera",
   "chain": "FTM",
   "network": "mainnet",
-  "rpc": ["https://rpcapi.fantom.network"],
+  "rpc": ["https://rpc.ftm.tools"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Fantom",
