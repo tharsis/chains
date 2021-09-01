@@ -506,6 +506,19 @@
   "faucets": [],
   "infoURL": "https://www.binance.org"
 }, {
+  "name": "Syscoin Mainnet",
+  "chainId": 57,
+  "shortName": "sys",
+  "networkId": 57,
+  "nativeCurrency": {
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18
+  },
+  "rpc": ["https://nevm.syscoin.org/api/eth-rpc", "https://web3.syscoin.org", "wss://web3.syscoin.org"],
+  "faucets": ["https://faucet.syscoin.org"],
+  "infoURL": "https://www.syscoin.org"
+}, {
   "name": "Ontology Mainnet",
   "chainId": 58,
   "shortName": "Ontology Mainnet",
@@ -1688,6 +1701,19 @@
   "rpc": ["https://mainnet.eraswap.network", "https://rpc-mumbai.mainnet.eraswap.network"],
   "faucets": [],
   "infoURL": "https://eraswap.info/"
+}, {
+  "name": "Syscoin Tanenbaum Testnet",
+  "chainId": 5700,
+  "shortName": "tsys",
+  "networkId": 5700,
+  "nativeCurrency": {
+    "name": "Testnet Syscoin",
+    "symbol": "tSYS",
+    "decimals": 18
+  },
+  "rpc": ["https://tanenbaum.io/api/eth-rpc"],
+  "faucets": ["https://faucet.tanenbaum.io"],
+  "infoURL": "https://syscoin.org"
 }, {
   "name": "Ontology Testnet",
   "chainId": 5851,
