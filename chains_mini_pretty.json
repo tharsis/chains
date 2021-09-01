@@ -2404,6 +2404,19 @@
   "faucets": ["https://faucet.polis.tech"],
   "infoURL": "https://polis.tech"
 }, {
+  "name": "Polis Mainnet",
+  "chainId": 333999,
+  "shortName": "olympus",
+  "networkId": 333999,
+  "nativeCurrency": {
+    "name": "Polis",
+    "symbol": "POLIS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.polis.tech"],
+  "faucets": ["https://faucet.polis.tech"],
+  "infoURL": "https://polis.tech"
+}, {
   "name": "Arbitrum Testnet Rinkeby",
   "chainId": 421611,
   "shortName": "arb-rinkeby",
