@@ -1885,7 +1885,7 @@
   "chainId": 1140,
   "networkId": 1140
 }, {
-  "name": "Moonbeam Polkadot",
+  "name": "Moonbeam",
   "chain": "MOON",
   "network": "moonbeam",
   "rpc": [],
@@ -1900,7 +1900,7 @@
   "chainId": 1284,
   "networkId": 1284
 }, {
-  "name": "Moonriver Kusama",
+  "name": "Moonriver",
   "chain": "MOON",
   "network": "moonriver",
   "rpc": ["https://rpc.moonriver.moonbeam.network", "wss://wss.moonriver.moonbeam.network"],
@@ -1915,7 +1915,7 @@
   "chainId": 1285,
   "networkId": 1285
 }, {
-  "name": "Moonrock Rococo",
+  "name": "Moonrock",
   "chain": "MOON",
   "network": "moonrock",
   "rpc": [],
@@ -1930,7 +1930,7 @@
   "chainId": 1286,
   "networkId": 1286
 }, {
-  "name": "Moonbeam Testnet Moonbase Alpha",
+  "name": "Moonbase Alpha",
   "chain": "MOON",
   "network": "moonbase",
   "rpc": ["https://rpc.testnet.moonbeam.network", "wss://wss.testnet.moonbeam.network"],
@@ -1945,7 +1945,7 @@
   "chainId": 1287,
   "networkId": 1287
 }, {
-  "name": "Moonshadow Westend",
+  "name": "Moonshadow",
   "chain": "MOON",
   "network": "moonshadow",
   "rpc": [],
