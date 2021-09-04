@@ -2586,6 +2586,19 @@
   "faucets": ["https://faucet.joys.digital/"],
   "infoURL": "https://joys.digital"
 }, {
+  "name": "OneLedger Nexus Mainnet",
+  "chainId": 311752642,
+  "shortName": "nexus",
+  "networkId": 311752642,
+  "nativeCurrency": {
+    "name": "OLT",
+    "symbol": "OLT",
+    "decimals": 18
+  },
+  "rpc": ["https://nexus-rpc.oneledger.network"],
+  "faucets": [],
+  "infoURL": "https://oneledger.io"
+}, {
   "name": "IPOS Network",
   "chainId": 1122334455,
   "shortName": "ipos",
@@ -2754,6 +2767,19 @@
   "rpc": ["https://wallrpc.pirl.io"],
   "faucets": [],
   "infoURL": "https://pirl.io"
+}, {
+  "name": "OneLedger Frankenstein Testnet",
+  "chainId": 4216137055,
+  "shortName": "frankenstein",
+  "networkId": 4216137055,
+  "nativeCurrency": {
+    "name": "OLT",
+    "symbol": "OLT",
+    "decimals": 18
+  },
+  "rpc": ["https://frankenstein-rpc.oneledger.network"],
+  "faucets": ["https://frankenstein-faucet.oneledger.network"],
+  "infoURL": "https://oneledger.io"
 }, {
   "name": "Palm Testnet",
   "chainId": 11297108099,
