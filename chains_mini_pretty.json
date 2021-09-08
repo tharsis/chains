@@ -2586,16 +2586,16 @@
   "faucets": ["https://faucet.joys.digital/"],
   "infoURL": "https://joys.digital"
 }, {
-  "name": "OneLedger Nexus Mainnet",
+  "name": "OneLedger Mainnet",
   "chainId": 311752642,
-  "shortName": "nexus",
+  "shortName": "oneledger",
   "networkId": 311752642,
   "nativeCurrency": {
     "name": "OLT",
     "symbol": "OLT",
     "decimals": 18
   },
-  "rpc": ["https://nexus-rpc.oneledger.network"],
+  "rpc": ["https://mainnet-rpc.oneledger.network"],
   "faucets": [],
   "infoURL": "https://oneledger.io"
 }, {
@@ -2768,7 +2768,7 @@
   "faucets": [],
   "infoURL": "https://pirl.io"
 }, {
-  "name": "OneLedger Frankenstein Testnet",
+  "name": "OneLedger Testnet Frankenstein",
   "chainId": 4216137055,
   "shortName": "frankenstein",
   "networkId": 4216137055,

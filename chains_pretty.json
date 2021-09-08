@@ -3277,11 +3277,11 @@
   "chainId": 99415706,
   "networkId": 99415706
 }, {
-  "name": "OneLedger Nexus Mainnet",
+  "name": "OneLedger Mainnet",
   "chain": "OLT",
   "network": "mainnet",
   "icon": "oneledger",
-  "rpc": ["https://nexus-rpc.oneledger.network"],
+  "rpc": ["https://mainnet-rpc.oneledger.network"],
   "faucets": [],
   "nativeCurrency": {
     "name": "OLT",
@@ -3289,12 +3289,12 @@
     "decimals": 18
   },
   "infoURL": "https://oneledger.io",
-  "shortName": "nexus",
+  "shortName": "oneledger",
   "chainId": 311752642,
   "networkId": 311752642,
   "explorers": [{
     "name": "OneLedger Block Explorer",
-    "url": "https://nexus-explorer.oneledger.network",
+    "url": "https://mainnet-explorer.oneledger.network",
     "standard": "EIP3091"
   }]
 }, {
@@ -3504,7 +3504,7 @@
   "networkId": 3125659152,
   "slip44": 164
 }, {
-  "name": "OneLedger Frankenstein Testnet",
+  "name": "OneLedger Testnet Frankenstein",
   "chain": "OLT",
   "network": "testnet",
   "icon": "oneledger",
