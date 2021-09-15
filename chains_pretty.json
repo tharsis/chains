@@ -3128,7 +3128,14 @@
     "name": "arbitrum-rinkeby",
     "url": "https://rinkeby-explorer.arbitrum.io",
     "standard": "EIP3091"
-  }]
+  }],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-4",
+    "bridges": [{
+      "url": "https://bridge.arbitrum.io"
+    }]
+  }
 }, {
   "name": "Ether-1",
   "chain": "ETHO",
