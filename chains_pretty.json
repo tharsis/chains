@@ -2720,7 +2720,7 @@
   "name": "QuarkChain Mainnet Shard 0",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39000/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39000/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2734,12 +2734,17 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/0",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Shard 1",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39001/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39001/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2753,12 +2758,17 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/1",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Shard 2",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39002/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39002/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2772,12 +2782,17 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/2",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Shard 3",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39003/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39003/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2791,12 +2806,17 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/3",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Shard 4",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39004/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39004/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2810,12 +2830,17 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/4",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Shard 5",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39005/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39005/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2829,12 +2854,17 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/5",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Shard 6",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39006/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39006/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2848,12 +2878,17 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/6",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Mainnet Shard 7",
   "chain": "QuarkChain",
   "network": "mainnet",
-  "rpc": ["http://jrpc.mainnet.quarkchain.io:39007/"],
+  "rpc": ["http://eth-jrpc.mainnet.quarkchain.io:39007/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2867,7 +2902,12 @@
   "parent": {
     "chain": "eip155-100000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-mainnet",
+    "url": "https://mainnet.quarkchain.io/7",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Root",
   "chain": "QuarkChain",
@@ -2887,7 +2927,7 @@
   "name": "QuarkChain Devnet Shard 0",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39000/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39900/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2901,12 +2941,17 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/0",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Shard 1",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39001/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39901/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2920,12 +2965,17 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/1",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Shard 2",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39002/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39902/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2939,12 +2989,17 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/2",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Shard 3",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39003/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39903/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2958,12 +3013,17 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/3",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Shard 4",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39004/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39904/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2977,12 +3037,17 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/4",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Shard 5",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39005/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39905/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -2996,12 +3061,17 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/5",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Shard 6",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39006/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39906/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -3015,12 +3085,17 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/6",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "QuarkChain Devnet Shard 7",
   "chain": "QuarkChain",
   "network": "devnet",
-  "rpc": ["http://jrpc.devnet.quarkchain.io:39007/"],
+  "rpc": ["http://eth-jrpc.devnet.quarkchain.io:39907/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "QKC",
@@ -3034,7 +3109,12 @@
   "parent": {
     "chain": "eip155-110000",
     "type": "shard"
-  }
+  },
+  "explorers": [{
+    "name": "quarkchain-devnet",
+    "url": "https://devnet.quarkchain.io/7",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Akroma",
   "chain": "AKA",
