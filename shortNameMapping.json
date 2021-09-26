@@ -127,6 +127,7 @@
   "edg": "eip155:2021",
   "edgt": "eip155:2022",
   "ktoc": "eip155:2559",
+  "tftm": "eip155:4002",
   "iotex-mainnet": "eip155:4689",
   "iotex-testnet": "eip155:4690",
   "es": "eip155:5197",

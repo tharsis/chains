@@ -1663,6 +1663,19 @@
   "faucets": [],
   "infoURL": "https://www.kortho.io/"
 }, {
+  "name": "Fantom Testnet",
+  "chainId": 4002,
+  "shortName": "tftm",
+  "networkId": 4002,
+  "nativeCurrency": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.fantom.network"],
+  "faucets": ["https://faucet.fantom.network"],
+  "infoURL": "https://docs.fantom.foundation/quick-start/short-guide#fantom-testnet"
+}, {
   "name": "IoTeX Network Mainnet",
   "chainId": 4689,
   "shortName": "iotex-mainnet",
