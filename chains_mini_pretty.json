@@ -1503,7 +1503,7 @@
     "symbol": "MATH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://mathchain-asia.maiziqianbao.net/rpc", "https://mathchain-us.maiziqianbao.net/rpc"],
   "faucets": [],
   "infoURL": "https://mathchain.org"
 }, {
