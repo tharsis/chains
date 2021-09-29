@@ -1524,6 +1524,21 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "PulseChain Mainnet",
+  "shortName": "pls",
+  "chain": "PLS",
+  "network": "mainnet",
+  "chainId": 369,
+  "networkId": 369,
+  "infoURL": "https://pulsechain.com/",
+  "rpc": ["https://rpc.mainnet.pulsechain.com/v1/${PULSECHAIN_API_KEY}", "wss://rpc.mainnet.pulsechain.com/ws/v1/${PULSECHAIN_API_KEY}"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Pulse",
+    "symbol": "PLS",
+    "decimals": 18
+  }
+}, {
   "name": "Lisinski",
   "chain": "CRO",
   "network": "mainnet",
@@ -1724,6 +1739,21 @@
   "chainId": 888,
   "networkId": 888,
   "slip44": 5718350
+}, {
+  "name": "PulseChain Testnet",
+  "shortName": "tpls",
+  "chain": "tPLS",
+  "network": "testnet",
+  "chainId": 940,
+  "networkId": 940,
+  "infoURL": "https://pulsechain.com/",
+  "rpc": ["https://rpc.testnet.pulsechain.com/v1/${PULSECHAIN_API_KEY}", "wss://rpc.testnet.pulsechain.com/ws/v1/${PULSECHAIN_API_KEY}"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Test Pulse",
+    "symbol": "tPLS",
+    "decimals": 18
+  }
 }, {
   "name": "Nepal Blockchain Network",
   "chain": "YETI",
