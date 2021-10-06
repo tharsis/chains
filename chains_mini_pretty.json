@@ -1611,6 +1611,19 @@
   "faucets": [],
   "infoURL": "https://atheios.com"
 }, {
+  "name": "Btachain",
+  "chainId": 1657,
+  "shortName": "bta",
+  "networkId": 1657,
+  "nativeCurrency": {
+    "name": "Bitcoin Asset",
+    "symbol": "BTA",
+    "decimals": 18
+  },
+  "rpc": ["https://dataseed1.btachain.com/"],
+  "faucets": [],
+  "infoURL": "https://bitcoinasset.io/"
+}, {
   "name": "Teslafunds",
   "chainId": 1856,
   "shortName": "tsf",
