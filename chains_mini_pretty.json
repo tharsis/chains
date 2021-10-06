@@ -1091,6 +1091,19 @@
   "faucets": ["https://scan-testnet.hecochain.com/faucet"],
   "infoURL": "https://testnet.hecoinfo.com"
 }, {
+  "name": "SUR Blockchain Network",
+  "chainId": 262,
+  "shortName": "SUR",
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "Suren",
+    "symbol": "SRN",
+    "decimals": 18
+  },
+  "rpc": ["https://sur.nilin.org"],
+  "faucets": [],
+  "infoURL": "https://surnet.org"
+}, {
   "name": "High Performance Blockchain",
   "chainId": 269,
   "shortName": "hpb",
