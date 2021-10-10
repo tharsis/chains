@@ -243,7 +243,7 @@
     "decimals": 18
   },
   "rpc": [],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://flare.xyz"
 }, {
   "name": "ELA-ETH-Sidechain Mainnet",
@@ -308,7 +308,7 @@
     "decimals": 18
   },
   "rpc": ["https://public-node.rsk.co", "https://mycrypto.rsk.co"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://rsk.co"
 }, {
   "name": "RSK Testnet",
@@ -503,7 +503,7 @@
     "decimals": 18
   },
   "rpc": ["https://bsc-dataseed1.binance.org", "https://bsc-dataseed2.binance.org", "https://bsc-dataseed3.binance.org", "https://bsc-dataseed4.binance.org", "https://bsc-dataseed1.defibit.io", "https://bsc-dataseed2.defibit.io", "https://bsc-dataseed3.defibit.io", "https://bsc-dataseed4.defibit.io", "https://bsc-dataseed1.ninicoin.io", "https://bsc-dataseed2.ninicoin.io", "https://bsc-dataseed3.ninicoin.io", "https://bsc-dataseed4.ninicoin.io", "wss://bsc-ws-node.nariox.org"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://www.binance.org"
 }, {
   "name": "Syscoin Mainnet",
@@ -555,7 +555,7 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.gochain.io"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://gochain.io"
 }, {
   "name": "Ethereum Classic Mainnet",
@@ -568,7 +568,7 @@
     "decimals": 18
   },
   "rpc": ["https://ethereumclassic.network"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/?"],
   "infoURL": "https://ethereumclassic.org"
 }, {
   "name": "Ethereum Classic Testnet Morden",
@@ -633,7 +633,7 @@
     "decimals": 18
   },
   "rpc": ["https://exchainrpc.okex.org"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/?"],
   "infoURL": "https://www.okex.com/okexchain"
 }, {
   "name": "DBChain Testnet",
@@ -828,7 +828,7 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.xdaichain.com", "https://xdai.poanetwork.dev", "wss://rpc.xdaichain.com/wss", "wss://xdai.poanetwork.dev/wss", "http://xdai.poanetwork.dev", "https://dai.poa.network", "ws://xdai.poanetwork.dev:8546"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/", "https://xdai-app.herokuapp.com/faucet"],
   "infoURL": "https://forum.poa.network/c/xdai-chain"
 }, {
   "name": "EtherInc",
@@ -945,7 +945,7 @@
     "decimals": 18
   },
   "rpc": ["https://http-mainnet.hecochain.com", "wss://ws-mainnet.hecochain.com"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://www.hecochain.com"
 }, {
   "name": "Matic(Polygon) Mainnet",
@@ -958,7 +958,7 @@
     "decimals": 18
   },
   "rpc": ["https://rpc-mainnet.matic.network", "wss://ws-mainnet.matic.network", "https://rpc-mainnet.matic.quiknode.pro", "https://matic-mainnet.chainstacklabs.com"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://matic.network/"
 }, {
   "name": "DAX CHAIN",
@@ -1075,7 +1075,7 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.ftm.tools"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://fantom.foundation"
 }, {
   "name": "Huobi ECO Chain Testnet",
@@ -1556,7 +1556,7 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.moonriver.moonbeam.network", "wss://wss.moonriver.moonbeam.network"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://moonbeam.network/networks/moonriver/"
 }, {
   "name": "Moonrock",
@@ -2076,7 +2076,7 @@
     "decimals": 18
   },
   "rpc": ["https://forno.celo.org", "wss://forno.celo.org/ws"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://docs.celo.org/"
 }, {
   "name": "Athereum",
@@ -2108,15 +2108,15 @@
   "name": "Avalanche Mainnet",
   "chainId": 43114,
   "shortName": "Avalanche",
-  "networkId": 1,
+  "networkId": 43114,
   "nativeCurrency": {
     "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18
   },
   "rpc": ["https://api.avax.network/ext/bc/C/rpc"],
-  "faucets": [],
-  "infoURL": "https://cchain.explorer.avax.network/"
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
+  "infoURL": "https://www.avax.network/"
 }, {
   "name": "Celo Alfajores Testnet",
   "chainId": 44787,
@@ -2765,7 +2765,7 @@
     "decimals": 18
   },
   "rpc": ["https://api.harmony.one"],
-  "faucets": [],
+  "faucets": ["https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://www.harmony.one/"
 }, {
   "name": "Harmony Mainnet Shard 1",
