@@ -145,6 +145,7 @@
   "olo": "eip155:8723",
   "tolo": "eip155:8724",
   "berg": "eip155:8995",
+  "evmos-mons": "eip155:9000",
   "smartbch": "eip155:10000",
   "smartbchtest": "eip155:10001",
   "GEN": "eip155:10101",
