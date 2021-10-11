@@ -627,6 +627,7 @@
   "shortName": "bnb",
   "chainId": 56,
   "networkId": 56,
+  "slip44": 714,
   "explorers": [{
     "name": "bscscan",
     "url": "https://bscscan.com",
@@ -995,7 +996,8 @@
   "infoURL": "https://tomocoin.io",
   "shortName": "tomo",
   "chainId": 88,
-  "networkId": 88
+  "networkId": 88,
+  "slip44": 889
 }, {
   "name": "CryptoKylin Testnet",
   "chain": "EOS",
@@ -1050,7 +1052,8 @@
   "infoURL": "https://poa.network",
   "shortName": "skl",
   "chainId": 99,
-  "networkId": 99
+  "networkId": 99,
+  "slip44": 178
 }, {
   "name": "xDAI Chain",
   "chain": "XDAI",
@@ -1117,7 +1120,8 @@
   "infoURL": "https://thundercore.com",
   "shortName": "TT",
   "chainId": 108,
-  "networkId": 108
+  "networkId": 108,
+  "slip44": 1001
 }, {
   "name": "Proton Testnet",
   "chain": "XPR",
@@ -1210,6 +1214,7 @@
   "shortName": "heco",
   "chainId": 128,
   "networkId": 128,
+  "slip44": 1010,
   "explorers": [{
     "name": "hecoinfo",
     "url": "https://hecoinfo.com",
@@ -1230,6 +1235,7 @@
   "shortName": "matic",
   "chainId": 137,
   "networkId": 137,
+  "slip44": 966,
   "explorers": [{
     "name": "polygonscan",
     "url": "https://polygonscan.com",
@@ -1870,7 +1876,8 @@
   "infoURL": "https://evrice.com",
   "shortName": "EVC",
   "chainId": 1010,
-  "networkId": 1010
+  "networkId": 1010,
+  "slip44": 1020
 }, {
   "name": "Newton",
   "chain": "NEW",
@@ -2513,7 +2520,8 @@
   "infoURL": "https://webchain.network",
   "shortName": "web",
   "chainId": 24484,
-  "networkId": 37129
+  "networkId": 37129,
+  "slip44": 227
 }, {
   "name": "MintMe.com Coin",
   "chain": "MINTME",
