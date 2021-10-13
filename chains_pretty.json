@@ -1375,7 +1375,7 @@
   "chain": "Energy Web Chain",
   "network": "mainnet",
   "rpc": ["https://rpc.energyweb.org", "wss://rpc.energyweb.org/ws"],
-  "faucets": ["https://faucet.carbonswap.exchange"],
+  "faucets": ["https://faucet.carbonswap.exchange", "https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "nativeCurrency": {
     "name": "Energy Web Token",
     "symbol": "EWT",
@@ -1385,7 +1385,12 @@
   "shortName": "ewt",
   "chainId": 246,
   "networkId": 246,
-  "slip44": 246
+  "slip44": 246,
+  "explorers": [{
+    "name": "blockscout",
+    "url": "https://explorer.energyweb.org",
+    "standard": "none"
+  }]
 }, {
   "name": "Fantom Opera",
   "chain": "FTM",

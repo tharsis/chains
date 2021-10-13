@@ -1062,7 +1062,7 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.energyweb.org", "wss://rpc.energyweb.org/ws"],
-  "faucets": ["https://faucet.carbonswap.exchange"],
+  "faucets": ["https://faucet.carbonswap.exchange", "https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://energyweb.org"
 }, {
   "name": "Fantom Opera",
