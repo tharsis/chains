@@ -178,7 +178,12 @@
   "infoURL": "https://optimism.io",
   "shortName": "oeth",
   "chainId": 10,
-  "networkId": 10
+  "networkId": 10,
+  "explorers": [{
+    "name": "etherscan",
+    "url": "https://optimistic.etherscan.io",
+    "standard": "none"
+  }]
 }, {
   "name": "Metadium Mainnet",
   "chain": "META",
