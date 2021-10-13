@@ -87,6 +87,7 @@
   "hpb": "eip155:269",
   "kcs": "eip155:321",
   "kcst": "eip155:322",
+  "sdn": "eip155:336",
   "theta-mainnet": "eip155:361",
   "theta-sapphire": "eip155:363",
   "theta-amber": "eip155:364",

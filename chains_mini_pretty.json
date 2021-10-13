@@ -1143,6 +1143,19 @@
   "faucets": ["https://faucet-testnet.kcc.network"],
   "infoURL": "https://scan-testnet.kcc.network"
 }, {
+  "name": "Shiden",
+  "chainId": 336,
+  "shortName": "sdn",
+  "networkId": 336,
+  "nativeCurrency": {
+    "name": "Shiden",
+    "symbol": "SDN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.shiden.astar.network:8545", "wss://shiden.api.onfinality.io/public-ws"],
+  "faucets": [],
+  "infoURL": "https://shiden.astar.network/"
+}, {
   "name": "Theta Mainnet",
   "chainId": 361,
   "shortName": "theta-mainnet",
