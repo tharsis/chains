@@ -639,21 +639,6 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "Syscoin Mainnet",
-  "chain": "SYS",
-  "network": "mainnet",
-  "rpc": ["https://rpc.syscoin.org", "wss://rpc.syscoin.org/wss"],
-  "faucets": ["https://faucet.syscoin.org"],
-  "nativeCurrency": {
-    "name": "Syscoin",
-    "symbol": "SYS",
-    "decimals": 18
-  },
-  "infoURL": "https://www.syscoin.org",
-  "shortName": "sys",
-  "chainId": 57,
-  "networkId": 57
-}, {
   "name": "Ontology Mainnet",
   "chain": "Ontology",
   "network": "mainnet",
@@ -2317,7 +2302,12 @@
   "infoURL": "https://syscoin.org",
   "shortName": "tsys",
   "chainId": 5700,
-  "networkId": 5700
+  "networkId": 5700,
+  "explorers": [{
+    "name": "Syscoin Testnet Block Explorer",
+    "url": "https://tanenbaum.io",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Ontology Testnet",
   "chain": "Ontology",
