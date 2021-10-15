@@ -3647,7 +3647,7 @@
   "name": "Aurora MainNet",
   "chain": "NEAR",
   "network": "mainnet",
-  "rpc": ["https://rpc.mainnet.aurora.dev:8545"],
+  "rpc": ["https://mainnet.aurora.dev"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -3662,7 +3662,7 @@
   "name": "Aurora TestNet",
   "chain": "NEAR",
   "network": "testnet",
-  "rpc": ["https://rpc.testnet.aurora.dev:8545"],
+  "rpc": ["https://testnet.aurora.dev/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
@@ -3677,7 +3677,7 @@
   "name": "Aurora BetaNet",
   "chain": "NEAR",
   "network": "betanet",
-  "rpc": ["https://rpc.betanet.aurora.dev:8545"],
+  "rpc": ["https://betanet.aurora.dev/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ether",
