@@ -844,6 +844,19 @@
   "faucets": [],
   "infoURL": "https://web3games.org/"
 }, {
+  "name": "Velas EVM Mainnet",
+  "chainId": 106,
+  "shortName": "vlx",
+  "networkId": 106,
+  "nativeCurrency": {
+    "name": "Velas",
+    "symbol": "VLX",
+    "decimals": 18
+  },
+  "rpc": ["https://evmexplorer.velas.com/rpc", "https://explorer.velas.com/rpc"],
+  "faucets": [],
+  "infoURL": "https://velas.com"
+}, {
   "name": "ThunderCore Mainnet",
   "chainId": 108,
   "shortName": "TT",
