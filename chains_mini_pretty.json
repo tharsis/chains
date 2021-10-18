@@ -1156,6 +1156,19 @@
   "faucets": [],
   "infoURL": "https://shiden.astar.network/"
 }, {
+  "name": "Cronos Testnet",
+  "chainId": 338,
+  "shortName": "tcro",
+  "networkId": 338,
+  "nativeCurrency": {
+    "name": "Crypto.org Test Coin",
+    "symbol": "TCRO",
+    "decimals": 18
+  },
+  "rpc": ["https://cronos-testnet-3.crypto.org:8545", "wss://cronos-testnet-3.crypto.org:8546"],
+  "faucets": ["https://cronos.crypto.org/faucet"],
+  "infoURL": "https://cronos.crypto.org"
+}, {
   "name": "Theta Mainnet",
   "chainId": 361,
   "shortName": "theta-mainnet",
